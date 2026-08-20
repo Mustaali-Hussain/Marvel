@@ -15,7 +15,7 @@ tags: ["marvel/character"]
 cssclasses: [marvel-wiki]
 generated: 2026-08-21
 ---
-
+ 
 > [!infobox]
 > ![[victoria-creed-71077.jpg]]
 > ###### Victoria Creed
