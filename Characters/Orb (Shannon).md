@@ -1,0 +1,76 @@
+---
+name: "Orb (Shannon)"
+aliases: ["Drake Shannon"]
+comicvine_id: 15358
+cover: "images/orb-shannon-15358.jpg"
+publisher: "Marvel"
+gender: "male"
+appearances: 35
+first_appearance: "If An Eye Offend Thee... #15"
+teams: []
+powers: []
+has_description: true
+comicvine_url: "https://comicvine.gamespot.com/orb-shannon/4005-15358/"
+tags: ["marvel/character"]
+cssclasses: [marvel-wiki]
+generated: 2026-08-21
+---
+
+> [!infobox]
+> ![[orb-shannon-15358.jpg]]
+> ###### Orb (Shannon)
+> **Real name** Drake Shannon
+> **First appearance** If An Eye Offend Thee... #15
+> **Appearances** 35
+> **Also known as** Drake Shannon
+
+> [!abstract] In brief
+> After he was horribly disfigured, he soon took his anger out on the world.
+
+## Origin
+
+The Orb first appeared in "Marvel Team-Up" vol. 1 #15 (November, 1973). According to his origin, Drake Shannon was an expert stunt motorcyclist. He and Craig "[[Crash Simpson|Crash" Simpson]] were co-owners of a stunt cycle show. Their partnership led to arguments concerning their approach to their stunts. Simpson grew to consider Shannon as too reckless. Shannon himself found Simpson too afraid to take chances.
+
+ At last, they decided to part ways, but neither was willing to sell his share to his partner. They decided to hold a cross-country race with full ownership of the show as the prize. The loser would walk away empty-handed. Their race initially failed to provide either one with an advantage, both competitors riding side by side. Shannon lost his patience and tried to maneuver his motorbike on a collision course with that of Simpson, seeking to knock Simpson out of the road. But the latter managed to evade, and Shannon lost control of his bike, crashing. With no helmet to protect him, Shannon found himself hitting the ground at the speed of 95 miles per hour, his face sliding 25 yards across the tarmac. He survived the accident to find himself slowly recovering at a hospital, his face horribly disfigured. Simpson visited him, but Shannon drove him away. He left the hospital to find himself a loner and an outcast, people unwilling to approach him or take a second look at his face.
+
+Twenty years later, Shannon was desperate and reaching the end of his life (possibly contemplating suicide), when he was approached by They Who Wield Power (including Keeper of the Flame/Lann, Prince Rey of el Dorado, and Tyrannus). They empowered several new super-villains as pawns in their plans for the world, and Shannon was provided with a helmet designed to look like a human eyeball, able to hypnotize victims who gazed upon it. He was also given a laser pistol. Shannon's career as a villain had begun.
+
+The Orb took to riding a motorbike again and was next seen at the head of a gang of intimidating bikers. He led them to invade "Ghost Rider's Motorcycle Extravaganza" in Madison Square Garden. He hypnotized the guards before they had a chance to shoot and proceeded to take over the audience, including [[Mary Jane|Mary-Jane Watson]]. [[Spider-Man|Peter Parker]] ([[Spider-Man]]) was in the audience, but his spider-sense allowed him to sense the danger before it occurred, looking away when the Orb hypnotized the others. The Orb took hostage [[Roxanne Simpson Blaze|Roxanne Simpson]], daughter of his former partner. He then found himself facing her concerned love interest, Ghost Rider/ [[Ghost Rider (Blaze)|Johnny Blaze]]. He maneuvered the crowd between himself and Blaze, forcing the latter to stop his bike before actually hitting the civilians. Blaze also prevented Spider-Man from approaching the Orb, afraid that the web-slinger would harm Roxanne instead. Shannon explained his story and asked Blaze to sign away the ownership of the cycle show. (At the time Blaze had the public convinced the Ghost Rider was just an identity he used on his stunts).
+
+The Orb left with Roxanne and his gang. Blaze was able to wake up the crowd from its trance and tracked Shannon down. He offered him the ownership papers of the show and received Roxanne in exchange. The exchange went on as planned, but then the Orb commanded his gang to execute the couple. Spider-Man, who had witnessed the event, attacked the gang members before they had a chance to shoot. The two heroes quickly knocked out the bikers while the Orb grabbed Roxanne and ran away. They tracked him down to a subway tunnel where the heroes were able to pull Roxanne to safety. The Orb kept running until seemingly killed by a runaway train.
+
+## Creation
+
+The Orb was created by Len Wein and Ross Andru in 1973 and first appeared in Marvel Team-Up # 15.
+
+## Story Arcs
+
+The Orb turned up alive again in "Ghost Rider" vol. 2 #14 (October, 1975). He was one of several villains interested in a bounty on up-and-coming actress Karen Page. He tracked her down to the Delazny Studios and hypnotized several people to use against her fellow employees Ghost Rider and [[Stunt-Master]]/George Smith. He cast images of himself while trying to convince Blaze of being a vengeful ghost. The Ghost Rider defended himself with a wall of flame but the Orb commanded his victims to walk straight in it, planning to use their deaths to ruin the Rider's reputation. Instead [[Karen Page]] and her new friend "Katy Milner" (Roxanne Simpson under a new identity created for her by Inferno) used a pair of fire hoses to wake the victims from their trance. Orb simply used a new victim driving a forklift against the Rider. He used his laser pistol to maneuver Blaze right in the path of the forklift. Ghost Rider jumped on top of the fork lift and used a firebolt to destroy it. The use of the laser pistol letting him know that Shannon was no ghost. The Orb was still able to hypnotize Karen Page not long after.
+
+In #15 (December, 1975), the Orb had Karen Page use a gun to shoot down "Milner" and Stunt-Master. He then road off with her on his motorbike, intending to claim the bounty on her head. The Ghost Rider pursued him on the open freeway. The Orb started shooting his laser pistol at his foe but Karen regained her senses and grabbed his arm, ruining his aim. Deciding that holding on to her would get him killed, Shannon hurled her away in hopes that the Rider would stop to collect her. Instead the Rider grabbed Karen before she hit the tarmac and left her safely on her feet before continuing the chase. Stunt-Master's uniform had enough armor to protect him from the shot and he was giving chase in his own motorbike. Carlson "Coot" Collier, director at Delazney Studios, was riding as his passenger. Collier had gained his fame as a western actor and was actually a sharp-shooter. He took aim at the Orb's laser pistol, disarming the villain. Ghost Rider was next able to tackle the villain off his bike and started beating him to unconsciousness, shattering the Orb's helmet in the process. Karen begged her friend to stop before actually killing his foe. Johnny was convinced Shannon would keep coming after his friends, the only way of stopping him being to kill him. The Friend (a Jesus Christ-like figure) appeared to him and convinced to save his rage for more serious opponents such as [[Mephisto]] and [[Pluto]]. Johhny rode away, assuming Stunt-Man and Collier would transport Karen to safety and Shannon to the police. (Friend was later retconned to an aspect of Mephisto which manipulates people's hopes).
+
+The Orb reportedly took his helmet for repairs to [[Sunset Bain|Madame Menace]]/ [[Sunset Bain]]. The helmet kept its hypnotic abilities and was now able to fire laser blasts as well. He was next seen in "Ghost Rider" vol. 2 #28 (February, 1978). He tracked down Roxanne Blaze somewhere in the Midwestern United States and hypnotized her, forcing her to forget Johnny Blaze and anything to do with him. He next placed another biker gang under his control and send them after Blaze. They ambushed him and started beating Blaze but he still managed to turn to Ghost Rider. Shannon hooked a chain to the Rider's legs and took of with his motorbike, dragging his enemy behind him. Brahma Bill, a biker who had recently befriended Roxanne and Johnny, shot at the chain and freed the Rider. Bill then directed his shots at the Orb and his gang, managing to take some gang members out. He distracted the Orb, giving the Rider enough time to catch up to him. The Ghost Rider tackled his foe off the road and to a short cliff. His gang tried to protect him from the Rider and gave their leader enough time to regain his composure. He used his laser to cause a rockslide and buried the Rider beneath it. He was surprised to see Blaze emerge mostly unharmed from beneath the rocks and was seemingly incinerated by hellfire from his enraged foe.
+
+In "Ghost Rider" vol. 2 #54 (March, 1981), the Orb was revealed to have his leather costume coated with asbestos to protect him from hellfire shots by Blaze. Since his laser blasts had little to no effect on Ghost Rider, Shannon had his laser further improved. He spent a lot of money to have plastic surgeries which restored his face to "nearly normal". He then proceeded to track down Blaze by following news reports on him. Catching up to Blaze in Las Vegas, Nevada, Shannon hired locals to set an ambush for his foe. They were to shoot at him, miss and run away towards Shannon's direction. He planned for the Ghost Rider to follow his would-be assassins, providing a clear shot for his laser. Ghost Rider did survive the ambush but did not give chase, ruining that plan. Entering Las Vegas, Shannon found out Blaze had a new love interest, Gina Langtree, heiress of Langtree Motors. Learning that Gina was supposed to test one of the company's new models, Shannon sabotaged the car. The engine stopped while Gina was somewhere in the Nevada desert, stranding her there. He was then able to ambush her and use an unknown anesthetic on her. Blaze was worried and followed her, unaware that the Orb had set some traps throughout the road. Blaze lost his motorbike to an exploding mine but survived the explosion and laser blasts. He used his hellfire to create a new motorbike and kept following Gina's trail. Blaze was able to evade further attacks, separate the Orb from Gina and then tackle his foe to the ground. He again used hellfire on his foe and was preparing to kill him when Gina convinced him not. Ghost Rider agreed not to kill Shannon but disfigured the latter's face again.
+
+By "Ghost Rider" vol. 2 #63 (December, 1981), the Orb was again leading a biker gang to a successful string of robberies. His laser allowed him to easily stop armored vehicles and his hypnotism ensured the guards would remember nothing. He contacted [[Sunset Bain|Madame Menace]] for further improvements on his helmet. His uniform included gloves which could fire heat-seeking missiles in the form of eyeballs. He had members of his gang lead Blaze away from Quentin Carnival and right to one of his traps. Blaze fell into a pit Shannon had prepared for him and his motorbike was shattered. He used his hellfire to create a new one and easily escaped the pit. The gang members were no match for him but the missiles were another matter. One of them succeeded in knocking him to the ground. The Orb proceeded to fire dozens of missiles on his foe. However Ghost Rider used his hellfire to incinerate them before they found their target and advanced on the Orb. Shannon attempted to flee while Ghost Rider gave chase. He was blasted repeatedly with hellfire and incapacitated. To add insult to injury, Blaze piled up the gang's motorcycles and melted them.
+
+In "Solo Avengers" #19 (June, 1989), the Orb was riding in the Mojave Desert while pursued by [[Hawkeye]]/Clinton Francis Barton. Barton managed to yank Shannon off his bike and the driverless vehicle was wrecked. Hawkeye thought the Orb was already incapacitated and hovered his skycycle above the villain. Shannon founded a clear target and blasted the skycycle off the air. Hawkeye vacated the vehicle in time. Its fall caused some heavy rocks to eject and one of them knocked out the Orb. Hawkeye fashioned a sleigh out of the remains of their vehicles and started dragging the Orb across the desert. The two found an oasis located within a strange metal dome. The Orb regained his senses and pulled a concealed weapon from his boot. A tree next to his unexpectedly disarmed him. The duo were next greeted by the owner of the dome, [[Blackheath|Plantman]]/Samuel Smithers. In #20 (July, 1989), Hawkeye and the Orb were swallowed alive by one of Smithers' master plants. Barton used one of his flare arrows to force the plant to disgorge them. He then had to fight Plantman's simulacra while the Orb was captured. Shannon found himself handcuffed and in custody of the real Plantman. Hawkeye was able to save him and the two fled to the desert.
+
+In #21 (August, 1989), Hawkeye and the Orb continued making their way through the desert. At some point Shannon ambushed Barton. He attempted to strangle him from behind, threw sand into his foe's eyes and even managed to land a few kicks on Barton. Barton proved to be the better hand-in-hand combatant among them and subdued him. He took mercy on the older man and even allowed him greater helpings of water out of their limited supply. The two arrived at a ghost town where Orb had arranged to meet his gang. They came across the gang and the Orb ordered them to execute Hawkeye. Instead they shot their own leader down. Hawkeye soon discovered the gang was dead, replaced by Plantman's simulacra of them. He was too exhausted to defeat them but was located and rescued by [[Hank Pym|Dr. Pym]] and [[Wonder Man]]. Hawkeye considered the Orb deceased and nobody bothered to reclaim the body. In "Deadline" #2 (July, 2002), an Orb had a cameo, playing pool with [[Taskmaster]] and one of the Super-Apes. It wasn't explained if Shannon had survived or had been replaced by a successor.
+
+In "Ghost Rider" vol. 6 #28 (October, 2008), a new Orb turned up. This one does not wear a helmet. His head was actually a giant eyeball. This Orb was a professional mercenary but had entered a period of inactivity. He was eventually hired by [[Zadkiel]], an ambitious angel, using [[Ghost Rider (Ketch)|Daniel Ketch]] as an intermediary. They were sent alongside [[Blackout]], [[Death Ninja|Death-Ninja]], and [[Doghead]] against [[Caretaker]] in the Smoky Mountains, Tennessee. The Orb used a "Repulsor Ray" to force Caretaker to retread within his house. He followed him in but triggered a trap, a wooden plank lined with nails was launched into his eyeball. He was incapacitated with pain. Uncertain if he survived the encounter.
+
+It was later found out that the Orb survived to attack. He was being helped at a medical prison because of his injuries. He was later broken out of the prison by [[Deacon|The Deacon]] and Blackout. He then joins them to work for Zadkiel.
+
+Besides the technology in his helmet and uniform, Shannon has the physical abilities of an athlete. He remains a capable hand-to-hand combatant despite being a generation older than most of his opponents. He is not a superhuman.
+
+## Reading notes
+
+
+
+---
+
+[View on Comic Vine](https://comicvine.gamespot.com/orb-shannon/4005-15358/)
+
+*Data from Comic Vine (comicvine.gamespot.com), CC BY-NC-SA.*
