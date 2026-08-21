@@ -1,0 +1,54 @@
+---
+name: "Iceberg"
+aliases: ["Jack Pierce"]
+comicvine_id: 49100
+cover: "images/iceberg-49100.jpg"
+publisher: "Marvel"
+gender: "male"
+appearances: 13
+first_appearance: "Second Best; Reason For Being; Be All That You Can Be; Born to Serve; State of Readiness #1"
+teams: []
+powers: []
+has_description: true
+comicvine_url: "https://comicvine.gamespot.com/iceberg/4005-49100/"
+tags: ["marvel/character"]
+cssclasses: [marvel-wiki]
+generated: 2026-08-21
+---
+
+> [!infobox]
+> ![[iceberg-49100.jpg]]
+> ###### Iceberg
+> **Real name** Jack Pierce
+> **First appearance** Second Best; Reason For Being; Be All That You Can Be; Born to Serve; State of Readiness #1
+> **Appearances** 13
+> **Also known as** Jack Pierce
+
+> [!abstract] In brief
+> An Initiative graduate assigned to the Liberteens but later joins the Fantastix
+
+## Creation
+
+Iceberg was created by Dan Slott, Christos Gage and Patrick Scherberger in 2007 and first appeared in Avengers: The Initiative Annual # 1.
+
+## Major Story Arcs
+
+### Fear Itself
+
+Commander [[Captain America|Steve Rogers]] informs [[Prodigy]] of the unknown meteors that have fallen from the heavens and mass panic is on the horizon. Rogers asks Prodigy to gather heroes on a volunteer basis to help keep the peace and lead a new Initiative where there is no forced conscription or registration. Prodigy agrees to become the leader of the new Initiative and most of the former Initiative members including Iceberg gather in Washington DC.
+
+### The Fantastix
+
+After the liquidation of Parker Industries, four former members of the Liberteens buy the Baxter Building and rebrand themselves as the Fantastix. Ms. America even changes her name to Ms. Fantastix. Their first public outing was taking on the Wrecking Crew who held up a jewelry store across the street from the Baxter Building. It was all a set up by their new PR manager, which the Fantastix had no idea about. It also coincided with the Fantastic Four's return from their adventures in the multiverse. Reed Richards and his daughter, Val, were able to see through the ruse, inspiring the Fantastix to fire their PR manager. Although Reed would not challenge their ownership of the Baxter Building.
+
+Later, The Fantastix were having a team meeting when they suddenly received a warning from Mr. Fantastic of a danger incoming for the Baxter Building. An alien warrior called the Cormorant arrived looking for Container Zero, destroying much of the Baxter Building to look for it. The Fantastix were eventually joined by the Fantastic Four, Doctor Doom, and Victorious. The ensuing fight eventually led to the destruction of Container Zero released a spark of the Zero Force. Val contained it by combining it with their teleporter, transforming it into the Forever Gate. Once the gate was created, Cormorant fled, and Reed seized the Baxter Building back from the Fantastix since they were unprepared to defend the Forever Gate (although he offered them the chance to join the team). The Fantastix understood.
+
+## Reading notes
+
+
+
+---
+
+[View on Comic Vine](https://comicvine.gamespot.com/iceberg/4005-49100/)
+
+*Data from Comic Vine (comicvine.gamespot.com), CC BY-NC-SA.*
